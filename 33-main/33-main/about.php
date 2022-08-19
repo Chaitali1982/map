@@ -91,8 +91,8 @@ body {
                 <ul>
                   
    
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +44 7741854772</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong>  Warrington,WA1 2GG</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +917414976038 </li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Country:</strong>  India</li>
                 
                   <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> shuklacs31@gmail.com</li>
