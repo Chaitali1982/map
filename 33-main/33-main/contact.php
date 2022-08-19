@@ -81,7 +81,7 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>60,Holywll Drive,Warrington</p>
+                <p>India</p>
               </div>
 
               <div class="email">
@@ -90,11 +90,7 @@
                 <p>shuklacs31@gmail.com</p>
               </div>
 
-              <div class="phone">
-                <i class="icofont-phone"></i>
-                <h4>Call:</h4>
-                <p>+44 7741854772</p>
-              </div>
+              
 
             </div>
 
