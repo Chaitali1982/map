@@ -91,10 +91,9 @@ body {
                 <ul>
                   
    
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +917414976038 </li>
                   <li><i class="icofont-rounded-right"></i> <strong>Country:</strong>  India</li>
                 
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Engineeering</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> shuklacs31@gmail.com</li>
                 </ul>
               </div>
