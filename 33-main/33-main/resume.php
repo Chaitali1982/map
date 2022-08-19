@@ -87,14 +87,35 @@
             </div>
          
             <div class="resume-item">
-              <h4>Bachlor  of Engineering  &amp; Instrumentation and Control</h4>
+              <h4>Bachlor  of Engineering  &amp; </h4>
               <h5>2010 - 2014</h5>
               <p><em>Pune University</em></p>
              
             </div>
+               <h3 class="resume-title">Certification</h3>
+             <div class="resume-item">
+              <h4>ISTQB Foundation </h4>
+              
+           
+            </div
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
+            
+            
+             <div class="resume-item">
+              <h4>2021-2022</h4>
+              <h5>Software tester  	</h5>
+           
+        
+              <ul>
+                <li>GIC	</li>
+               
+              </ul>
+              </p>
+            </div>
+          
+          
             <div class="resume-item">
               <h4>2020-2021</h4>
               <h5>Coding Traineeship  	</h5>
@@ -109,7 +130,7 @@
             <div class="resume-item">
               <h4>2006-2010</h4>
               <h5>Lecturer</h5>
-              <p><em>Nashik,India</em></p>
+              <p><em>India</em></p>
          
               <ul>
                 <li>Lecturer in Engineering College in India</li>
@@ -120,11 +141,11 @@
             <div class="resume-item">
               <h4>2004-2005</h4>
               <h5>Trainee Enginneer</h5>
-              <p><em> Nashik,India</em></p>
+              <p><em>India</em></p>
               <h5></h5>
           
               <ul>
-                <li>Work as Quality Assurance Engineer in Electronic Company.</li>
+                <li>Work as Quality Assurance Engineer .</li>
                
               </ul>
               </p>
