@@ -73,7 +73,7 @@ body {
   <section id="hero" class="d-flex align-items-center">
     <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
       <h1>Chaitali Bhate</h1>
-      <h2>I'm a Web Devloper</h2>
+      <h2>I'm a Software tester,Web Devloper</h2>
       <a href="about.php" class="btn-about">About Me</a>
     </div>
   </section><!-- End Hero -->
