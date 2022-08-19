@@ -93,7 +93,7 @@ body {
    
                   <li><i class="icofont-rounded-right"></i> <strong>Country:</strong>  India</li>
                 
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Engineeering</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Engineering</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> shuklacs31@gmail.com</li>
                 </ul>
               </div>
